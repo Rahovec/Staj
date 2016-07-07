@@ -1,2 +1,2 @@
-# Intership Reop
+# Intership Repo
 cyka blqt
